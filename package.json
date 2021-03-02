@@ -1,0 +1,51 @@
+{
+  "_from": "cordova-plugin-stripe-google-pay",
+  "_id": "cordova-plugin-stripe-google-pay@0.0.8",
+  "_inBundle": false,
+  "_integrity": "sha512-fUjBSGTy35N+zw/DJvUQa0dS/4V9qbEZTHlCsTEvK616hSfvT5Azz4IZJJqtmzTqtIbwpH0MZikdlA7wflYdug==",
+  "_location": "/cordova-plugin-stripe-google-pay",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-stripe-google-pay",
+    "name": "cordova-plugin-stripe-google-pay",
+    "escapedName": "cordova-plugin-stripe-google-pay",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://private-npm-repository.amira.services/cordova-plugin-stripe-google-pay/-/cordova-plugin-stripe-google-pay-0.0.8.tgz",
+  "_shasum": "7e74185eb1178d06058ec2b7d7923d9cd001345d",
+  "_spec": "cordova-plugin-stripe-google-pay",
+  "_where": "C:\\Users\\adeum\\Documents\\Work\\lexa-studentapp",
+  "author": {
+    "name": "Asanga Dev",
+    "email": "asanga.dev@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/asangadev/cordova-plugin-stripe-google-pay/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Cordova plugin for Stripe - Google Pay",
+  "homepage": "https://github.com/asangadev/cordova-plugin-stripe-google-pay#readme",
+  "keywords": [
+    "stripe",
+    "cordova",
+    "google pay cordova",
+    "google pay phonegap",
+    "strip google pay cordova"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-stripe-google-pay",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asangadev/cordova-plugin-stripe-google-pay.git"
+  },
+  "version": "0.0.8"
+}
